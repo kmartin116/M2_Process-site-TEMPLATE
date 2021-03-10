@@ -44,7 +44,7 @@ background-position: center;
 .container {
   display:grid;
   margin-left:1rem;
-  margin-right:1rem;
+  margin-right:3rem;
   height:fit-content;
   width:65%;
   position:fixed;
