@@ -50,7 +50,6 @@ background-position: center;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   grid-gap: 5px 5px;
-  outline-color: black;
 }
 .cell {
   color:black;
