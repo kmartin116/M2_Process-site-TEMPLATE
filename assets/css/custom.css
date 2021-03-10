@@ -62,15 +62,10 @@ background-position: center;
 }
 .cell-1 {
 font-weight: bold; 
-grid-column: 1/8;
 }
-
 .cell-2 {
   font-weight: bold;
-  grid-column: 1/8;
 }
-
 .cell-3 {
 font-weight: bold;
-grid-column: 1/8;
 }
