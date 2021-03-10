@@ -51,20 +51,19 @@ background-position: center;
 }
 .cell {
   color:black;
-  background:grey;
   font-size: 1rem;
   text-align: left;
   padding: 2rem;
 }
 
-#cell-1 {
+.cell-1 {
 font-weight: bold;
 }
 
-#cell-2 {
+.cell-2 {
   font-weight: bold;
 }
 
-#cell-3 {
+.cell-3 {
 font-weight: bold;
 }
