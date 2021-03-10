@@ -51,6 +51,7 @@ background-position: center;
 }
 .cell {
   color:black;
+  background:grey;
   font-size: 1rem;
   text-align: left;
   padding: 2rem;
