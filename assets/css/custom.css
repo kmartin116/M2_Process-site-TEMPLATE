@@ -42,7 +42,7 @@ background-position: center;
 
 }
 .container {
-  display:grid;
+  display:block;
   margin-left:1rem;
   margin-right:1rem;
   height:max-content;
