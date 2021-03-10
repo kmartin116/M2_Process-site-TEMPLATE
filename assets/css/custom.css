@@ -50,7 +50,7 @@ background-position: center;
   grid-gap: 10px 10px;
 }
 .cell {
-  color: white;
+  color:black;
   font-size: 3rem;
   text-align: center;
   padding: 4rem;
