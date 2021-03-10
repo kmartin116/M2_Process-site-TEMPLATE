@@ -47,7 +47,7 @@ background-position: center;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  grid-gap: 10px 10px;
+  grid-gap: 5px 5px;
 }
 .cell {
   color:black;
@@ -55,4 +55,3 @@ background-position: center;
   text-align: left;
   padding: 2rem;
 }
-
