@@ -43,7 +43,8 @@ background-position: center;
 }
 .container {
   height: 90vh;
-  margin:1rem;
+  margin-left:1rem;
+  margin-right:1rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
@@ -53,7 +54,9 @@ background-position: center;
   color:black;
   font-size: 1rem;
   text-align: left;
-  padding: 2rem;
+  padding-left: 1rem;
+  padding-right:1rem;
+
 }
 
 .cell-1 {
