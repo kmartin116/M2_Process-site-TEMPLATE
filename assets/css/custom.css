@@ -27,13 +27,13 @@ background-repeat: no-repeat;
 background-position: center;
 }
 
-#banner .button.redbtn {
+#banner .button.blackbtn {
   background-color: rgba(0,0,0,0);
   box-shadow: none;
 }
 
-#banner .button.redbtn:hover {
-  background-color: rgba(188, 46, 26, .8);
+#banner .button.blackbtn:hover {
+  background-color: rgba(100, 100, 26, 0);
 }
 
 .image-outline{
