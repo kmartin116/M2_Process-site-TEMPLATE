@@ -25,6 +25,8 @@ background-color: #8ac4d0;
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
+color: #faeeac;
+text-shadow: 1px 1px 15px gray;
 }
 
 #One .button.bluebtn {
