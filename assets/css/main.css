@@ -2625,7 +2625,7 @@ take precedence the ones in this file. */
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
-				color: #28527a;
+				color: #8ac4d0;
 			}
 
 			.wrapper.style1 a {
@@ -2633,11 +2633,11 @@ take precedence the ones in this file. */
 			}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #1abc9c;
+				color: #8ac4d0;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #1abc9c;
+				color: #8ac4d0;
 			}
 
 			.wrapper.style1 blockquote {
@@ -2671,7 +2671,7 @@ take precedence the ones in this file. */
 				.wrapper.style1 input[type="button"]:hover,
 				.wrapper.style1 button:hover,
 				.wrapper.style1 .button:hover {
-					background-color: #1dd2af;
+					background-color: #8ac4d0;
 				}
 
 				.wrapper.style1 input[type="submit"]:active,
@@ -2679,7 +2679,7 @@ take precedence the ones in this file. */
 				.wrapper.style1 input[type="button"]:active,
 				.wrapper.style1 button:active,
 				.wrapper.style1 .button:active {
-					background-color: #17a689;
+					background-color: #8ac4d0;
 				}
 
 				.wrapper.style1 input[type="submit"].alt,
@@ -2689,7 +2689,7 @@ take precedence the ones in this file. */
 				.wrapper.style1 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #1abc9c !important;
+					color: #8ac4d0 !important;
 				}
 
 					.wrapper.style1 input[type="submit"].alt:hover,
@@ -2721,12 +2721,12 @@ take precedence the ones in this file. */
 				.wrapper.style1 input[type="button"].special,
 				.wrapper.style1 button.special,
 				.wrapper.style1 .button.special {
-					background-color: #1abc9c;
+					background-color: #8ac4d0;
 					color: #fff !important;
 				}
 
 			.wrapper.style1 label {
-				color: #1abc9c;
+				color: #8ac4d0;
 			}
 
 			.wrapper.style1 input[type="text"],
@@ -2743,8 +2743,8 @@ take precedence the ones in this file. */
 				.wrapper.style1 input[type="email"]:focus,
 				.wrapper.style1 select:focus,
 				.wrapper.style1 textarea:focus {
-					border-color: #1abc9c;
-					box-shadow: 0 0 0 1px #1abc9c;
+					border-color: #8ac4d0;
+					box-shadow: 0 0 0 1px #8ac4d0;
 				}
 
 			.wrapper.style1 .select-wrapper:before {
@@ -2764,15 +2764,15 @@ take precedence the ones in this file. */
 
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
-				background-color: #1abc9c;
-				border-color: #1abc9c;
+				background-color: #8ac4d0;
+				border-color: #8ac4d0;
 				color: #fff;
 			}
 
 			.wrapper.style1 input[type="checkbox"]:focus + label:before,
 			.wrapper.style1 input[type="radio"]:focus + label:before {
-				border-color: #1abc9c;
-				box-shadow: 0 0 0 1px #1abc9c;
+				border-color: #8ac4d0;
+				box-shadow: 0 0 0 1px #8ac4d0;
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
@@ -2812,7 +2812,7 @@ take precedence the ones in this file. */
 				}
 
 			.wrapper.style1 table th {
-				color: #1abc9c;
+				color: #8ac4d0;
 			}
 
 			.wrapper.style1 table thead {
@@ -2833,19 +2833,19 @@ take precedence the ones in this file. */
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
-				color: #3498db;
+				color: #8ac4d0;
 			}
 
 			.wrapper.style2 a {
-				color: #3498db;
+				color: #8ac4d0
 			}
 
 			.wrapper.style2 strong, .wrapper.style2 b {
-				color: #3498db;
+				color: #8ac4d0;
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-				color: #3498db;
+				color: #8ac4d0;
 			}
 
 			.wrapper.style2 blockquote {
