@@ -25,17 +25,8 @@ background-color: #8ac4d0;
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
-color: #faeeac;
-text-shadow: 1px 1px 15px gray;
 }
 
-#One .button.bluebtn {
-background-color: #faeeac; 
-box-shadow: none;
-}
-#One .button.bluebtn:hover {
-  background-color: #8ac4d0; 
-}
 .image-outline{
   border:0ch;
   box-shadow: 1pt;
